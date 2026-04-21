@@ -9,7 +9,7 @@
 
 cree la clase " metodo burbuja " que implementa metodo de ordenamiento ascendente, decendente y un metodo parta imprimir. con constructor que instancia una variable global
 
-## Practica 1.2 Metodo burbuja
+## Practica 1.2 Metodo burbuja Avanzada
 ### fecha: 21/04/2026
 ## descripcion:
 

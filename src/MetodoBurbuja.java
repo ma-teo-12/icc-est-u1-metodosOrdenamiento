@@ -28,7 +28,6 @@ public class MetodoBurbuja {
                         arreglo[j] = auxi;
                         
                     }
-
                 }
             }
         }
