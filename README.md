@@ -1,18 +1,10 @@
-## Getting Started
+# UNIVERSIDAD POLITECNICA SALECIANA
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Estructura de datos
+## Estudiante: mateo  gallegos
 
-## Folder Structure
+## Practica 1.1 Metodo burbuja
+### fecha: 20/04/2026
+## descripcion:
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+cree la clase " metodo burbuja " que implementa metodo de ordenamiento ascendente, decendente y un metodo parta imprimir. con constructor que instancia una variable global
