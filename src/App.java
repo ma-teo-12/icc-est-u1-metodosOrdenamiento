@@ -3,8 +3,21 @@ public class App {
         
         metodoBurbuja();
         MetodoBurbujaAvanzado();
+        runMetodoSeleccion();
 
          
+    }
+    public static void runMetodoSeleccion() {
+
+        MetodoSeleccion mSeleccion = new MetodoSeleccion();
+        int[] arr = new int[]{1, 10, 7, 9, 0, 1, 3, 4};
+        mSeleccion.printArreglo(arr);
+        mSeleccion.sort(arr);
+        mSeleccion.printArreglo(arr);
+        mSeleccion.sortDes(arr);
+        mSeleccion.printArreglo(arr);
+
+        
     }
     public static void metodoBurbuja(){
 

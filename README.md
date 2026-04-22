@@ -14,3 +14,9 @@ cree la clase " metodo burbuja " que implementa metodo de ordenamiento ascendent
 ## descripcion:
 
 cree la clase " metodo burbuja avanzada " que implementa metodo de ordenamiento ascendente, decendente y un metodo parta imprimir con constructor que instancia una variable global y tambien se creo contadores de comparaciones y contadores
+
+## Practica 1. Metodo seleccion
+### fecha: 22/04/2026
+## descripcion:
+
+cree la clase " metodo seleccion " que implementa metodo de ordenamiento ascendente, decendente y un metodo parta imprimir con constructor que instancia una variable global.
